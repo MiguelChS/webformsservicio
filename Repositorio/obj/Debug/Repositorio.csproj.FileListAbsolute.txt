@@ -1,0 +1,9 @@
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\bin\Debug\Modelos.dll
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\bin\Debug\MySql.Data.dll
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\bin\Debug\Modelos.pdb
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\JN185090\Documents\Visual Studio 2015\Projects\WebFormsServicio\Repositorio\obj\Debug\Repositorio.pdb

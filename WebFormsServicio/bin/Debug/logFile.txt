@@ -1,0 +1,43 @@
+5/12/2016 10:50:57 AM: Services Stated!!
+5/12/2016 10:52:36 AM: Services Stated!!
+5/12/2016 3:03:19 PM: Services Stated!!
+5/12/2016 3:16:53 PM: Services Stated!!
+5/12/2016 3:20:34 PM: Services Stated!!
+5/12/2016 3:20:57 PM: Services Stated!!
+5/12/2016 3:21:58 PM: Buscando Email..
+5/12/2016 3:22:10 PM: mscorlib: Access to the path '\\SARBUE8000\WebForms\WebFormsService\App_Data\WebformsLog_20160418 1018AR101H99.txt' is denied.
+5/12/2016 5:23:03 PM: Services Stated!!
+5/12/2016 5:23:22 PM: Services Stated!!
+5/12/2016 5:24:22 PM: Buscando Email..
+5/12/2016 5:24:34 PM: Microsoft.Exchange.WebServices: The request failed. Could not find file 'C:\windows\system32\WebformsLog_20160418 1018AR101H99.txt'.
+5/12/2016 5:25:35 PM: Buscando Email..
+5/12/2016 5:25:41 PM: Microsoft.Exchange.WebServices: The request failed. Could not find file 'C:\windows\system32\WebformsLog_20160418 1018AR101H99.txt'.
+5/12/2016 5:26:41 PM: Buscando Email..
+5/12/2016 5:26:46 PM: Microsoft.Exchange.WebServices: The request failed. Could not find file 'C:\windows\system32\WebformsLog_20160418 1018AR101H99.txt'.
+5/12/2016 5:27:46 PM: Buscando Email..
+5/12/2016 5:27:52 PM: Microsoft.Exchange.WebServices: The request failed. Could not find file 'C:\windows\system32\WebformsLog_20160418 1018AR101H99.txt'.
+5/12/2016 5:28:52 PM: Buscando Email..
+5/12/2016 5:28:57 PM: Microsoft.Exchange.WebServices: The request failed. Could not find file 'C:\windows\system32\WebformsLog_20160418 1018AR101H99.txt'.
+5/12/2016 5:29:57 PM: Buscando Email..
+5/12/2016 5:30:01 PM: Microsoft.Exchange.WebServices: The request failed. Could not find file 'C:\windows\system32\WebformsLog_20160418 1018AR101H99.txt'.
+5/12/2016 5:31:01 PM: Buscando Email..
+5/13/2016 10:57:48 AM: Services Stated!!
+5/13/2016 10:58:49 AM: Buscando Email..
+5/13/2016 10:58:49 AM: Sin email para enviar
+5/13/2016 11:05:44 AM: Services Stated!!
+5/13/2016 11:06:44 AM: Buscando Email..
+5/13/2016 11:06:45 AM: Entra al foreach
+5/13/2016 11:06:55 AM: Servidor Exchange localizado.
+5/13/2016 11:06:55 AM: Archivos adjuntos: 1
+5/13/2016 11:06:55 AM: Enviando email..
+5/13/2016 11:06:57 AM: Email Enviado. Actualizando Base de datos.
+5/13/2016 11:06:57 AM: Base de datos actualizada exitosamente.
+5/13/2016 11:07:45 AM: Buscando Email..
+5/13/2016 11:07:45 AM: Entra al foreach
+5/13/2016 11:07:50 AM: Servidor Exchange localizado.
+5/13/2016 11:07:50 AM: Archivos adjuntos: 1
+5/13/2016 11:07:50 AM: Enviando email..
+5/13/2016 11:07:52 AM: Email Enviado. Actualizando Base de datos.
+5/13/2016 11:07:52 AM: Base de datos actualizada exitosamente.
+5/13/2016 11:08:45 AM: Buscando Email..
+5/13/2016 11:08:45 AM: Sin email para enviar
